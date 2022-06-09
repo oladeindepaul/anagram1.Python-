@@ -14,5 +14,5 @@ def find_anagrams(word):
 
      a=("spot")
      b=("opts")
-     c=("tops")
-         print(sorted(a) == sorted(b) == sorted(c))
+     
+        print(sorted(a) == sorted(b))
